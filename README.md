@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gera097
-- 👀 I’m interested in Data Analytics and Data Science using python and sql; and in software development in general.
+- 👀 I’m interested in Data Analytics, Data Science and software development.
 - 🌱 I’m currently learning Data Analysis and Machine Learning, and looking to learn about web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: g.sanchezalba@outlook.com
